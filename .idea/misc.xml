@@ -4,7 +4,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/keycloak-demo/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/auth-redis-demo/pom.xml" />
+>>>>>>> fdcffc11d9932fa5c05d65728e37b7c923fe387c
       </list>
     </option>
   </component>

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/keycloak-demo.iml" filepath="$PROJECT_DIR$/.idea/keycloak-demo.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/auth-redis-demo.iml" filepath="$PROJECT_DIR$/.idea/auth-redis-demo.iml" />
+>>>>>>> fdcffc11d9932fa5c05d65728e37b7c923fe387c
     </modules>
   </component>
 </project>
